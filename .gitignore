@@ -1,0 +1,7 @@
+*.*
+!*.py
+!*.lua
+!*.conf
+!*.js
+!*.html
+!*.css
